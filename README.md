@@ -6,4 +6,7 @@ Cleaning the data for clarity and consistency of findings, I utilized power pivo
 
 [Check out my findings and work here!](https://github.com/Billy-Shelton/User_Survey_Analysis/tree/main/User_Survey_Analysis)
 
-![Dashboard](https://github.com/Billy-Shelton/User_Survey_Analysis/blob/main/.Pictures/Screenshot%202025-05-16%20230311.png)
+![image](https://github.com/user-attachments/assets/01658ae0-05f6-4a4e-9dd1-c913dc611018)
+![image](https://github.com/user-attachments/assets/5cfdc755-7fef-4674-b7e0-e18a22b20547)
+
+
