@@ -67,5 +67,35 @@ The dataset used for this project was provided by Digital Extremes for their 202
 - **Design Choice:** A pie chart was chosen for it being able to accurately and simply convery the data with clarity, giving a easy to understand total percentage breakdown of the survey=takers interests in the battlepass system of Warframe. This allows for immediate insights into the overarching playerbases interests in the content by using the survey-takers as a sample group.
 - **Insights Gained:** New cosemetics and gameplay effecting items appear to be the major interests of the surveyed players. That takes a particular note is the option of "other" being low but still 3% of the total group. This shows the potential for further growth of battlepass content and player interest for the potential of furthering content in this area that are outside of the consistent additions. 
 
+# Insights Dashboard
+
+![image](https://github.com/user-attachments/assets/2ac25303-fa89-4593-9f23-6ba82ca5c463)
+
+## Introduction 
+
+This dashboard is a more in-depth look if the survey dataset that was previously visualized. The focus of this dashboard is to look at trends between players with the basis of engagment and monetization as the main criterias set.   
+
+## Analysis
+
+**Column Charts**
+
+![image](https://github.com/user-attachments/assets/1526badf-df81-4c88-97c0-6411f3a699a9)
+
+- **Design Choice:**  
+- **Insights Gained:**
+
+![image](https://github.com/user-attachments/assets/e20f12da-9409-4e91-801d-f6a5e845329a)
+
+- **Design Choice:**  
+- **Insights Gained:**
 
 
+**Bar Chart**
+
+![image](https://github.com/user-attachments/assets/c084c191-6e5c-4428-8b61-c67337458b3d)
+
+- **Design Choice:**  
+- **Insights Gained:**
+
+
+**Bar Chart**
