@@ -81,21 +81,19 @@ This dashboard is a more in-depth look if the survey dataset that was previously
 
 ![image](https://github.com/user-attachments/assets/1526badf-df81-4c88-97c0-6411f3a699a9)
 
-- **Design Choice:**  
-- **Insights Gained:**
+- **Design Choice:** I chose a coloum chart for easy readability while also adding in a trendline for data clarity and accessibility as the chart is organized by date for data consistency.  
+- **Insights Gained:** In this particular chart, level 17 was chosen as it marks a middle of the road in progress player. What we see is that the last 2 years have been above engagement with the players who started at these times then past years, with the previous peak being back in 2015. These three updates were story focused for the game and implies by the trend that current story beats has an increased enagement with players and should be further investigated. 
 
 ![image](https://github.com/user-attachments/assets/e20f12da-9409-4e91-801d-f6a5e845329a)
 
-- **Design Choice:**  
-- **Insights Gained:**
+- **Design Choice:** This chart uses a column setup to show immediate peaks and drops of the five options, insuring for clarity and quick insights by any on lookers. 
+- **Insights Gained:** For a middle of the road player that is without a storied career in the game, cosmetics for their characters are a up by a wide margin as opposed to the other options. It could be assumed that due to the second highest option being gameplay items that players on the newer side make up the majority of that option while the more initiated players of this level are seeking for more visual customization. 
 
 
 **Bar Chart**
 
 ![image](https://github.com/user-attachments/assets/c084c191-6e5c-4428-8b61-c67337458b3d)
 
-- **Design Choice:**  
-- **Insights Gained:**
+- **Design Choice:** A bar chart was chosen for it's clarity in ranking options, the highest being at the top. It allows for quick understanding, clarity of the data, sets up for actionable insights, and also allows for actionable questions.
+- **Insights Gained:** Dante is at the top by a large margin when compared to second place and could be potentially considered for a deluxe skin that could have a high monetary return vs time, with Voruna (second place) set up well to take over as the next most wanted deluxe skin. I believe further research is needed for why Jade (third place) is not in line with the second place holder as they are split by a fair margain as well.
 
-
-**Bar Chart**
